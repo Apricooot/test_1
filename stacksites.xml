@@ -1,0 +1,92 @@
+<stack-sites>
+<site>
+<name>Stack Overflow</name>
+<link>http://stackoverflow.com/</link>
+<about>
+Stack Overflow is a question and answer site for professional and enthusiast programmers.
+</about>
+<image>
+https://dl.dropboxusercontent.com/u/5724095/XmlParseExample/stackoverflow.png
+</image>
+</site>
+<site>
+<name>English Language & Usage</name>
+<link>http://english.stackexchange.com/</link>
+<about>
+English Language & Usage Stack Exchange is a question and answer site for linguists, etymologists, and serious English language enthusiasts.
+</about>
+<image>
+https://dl.dropboxusercontent.com/u/5724095/XmlParseExample/english.png
+</image>
+</site>
+<site>
+<name>Mathematics</name>
+<link>http://math.stackexchange.com</link>
+<about>
+Mathematics Stack Exchange is a question and answer site for people studying math at any level and professionals in related fields.
+</about>
+<image>
+https://dl.dropboxusercontent.com/u/5724095/XmlParseExample/math.png
+</image>
+</site>
+<site>
+<name>Ask Ubuntu</name>
+<link>http://askubuntu.com/</link>
+<about>
+Ask Ubuntu is a question and answer site for Ubuntu users and developers.
+</about>
+<image>
+https://dl.dropboxusercontent.com/u/5724095/XmlParseExample/ubuntu.png
+</image>
+</site>
+<site>
+<name>Super User</name>
+<link>http://superuser.com/</link>
+<about>
+Super User is a question and answer site for computer enthusiasts and power users.
+</about>
+<image>
+https://dl.dropboxusercontent.com/u/5724095/XmlParseExample/superuser.png
+</image>
+</site>
+<site>
+<name>Android Enthusiasts</name>
+<link>http://android.stackexchange.com</link>
+<about>
+Android Enthusiasts Stack Exchange is a question and answer site for enthusiasts and power users of the Android operating system.
+</about>
+<image>
+https://dl.dropboxusercontent.com/u/5724095/XmlParseExample/android.png
+</image>
+</site>
+<site>
+<name>Server Fault</name>
+<link>http://serverfault.com/</link>
+<about>
+Server Fault is a question and answer site for professional system and network administrators.
+</about>
+<image>
+https://dl.dropboxusercontent.com/u/5724095/XmlParseExample/serverfault.png
+</image>
+</site>
+<site>
+<name>Arqade</name>
+<link>http://gaming.stackexchange.com/</link>
+<about>
+Arqade is a question and answer site for passionate videogamers on all platforms.
+</about>
+<image>
+https://dl.dropboxusercontent.com/u/5724095/XmlParseExample/gaming.png
+</image>
+</site>
+<site>
+<name>Webmasters</name>
+<link>http://webmasters.stackexchange.com/</link>
+<about>
+Webmasters is a question and answer site for professional and enthusiast webmasters.
+</about>
+<image>
+https://dl.dropboxusercontent.com/u/5724095/XmlParseExample/webmasters.png
+</image>
+</site>
+</stack-sites>
